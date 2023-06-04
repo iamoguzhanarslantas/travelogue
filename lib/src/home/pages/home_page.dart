@@ -22,7 +22,7 @@ class _HomePageState extends State<HomePage> {
               ),
               child: Row(
                 children: [
-                  Icon(
+                  const Icon(
                     Icons.menu,
                     size: 28,
                     color: AppColors.mainColor,
